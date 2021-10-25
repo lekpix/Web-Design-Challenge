@@ -1,3 +1,7 @@
+https://lekpix.github.io/Web-Design-Challenge/
+
+
+**Instructions**
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
